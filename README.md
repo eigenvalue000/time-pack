@@ -41,3 +41,4 @@ console.log(GetCurrentDate("Eastern"));
 ```
 
 Output will be today's current date according to Eastern time.
+
