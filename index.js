@@ -3,5 +3,6 @@ const GetCurrentWeekdayDate = require("./lib/CurrentDate/GetCurrentWeekdayDate")
 const Delay = require("./lib/Delay");
 const AddDaysToDate = require("./lib/DateMath/AddDaysToDate");
 const PeriodicTask = require("./lib/Scheduler/PeriodicTask");
+const TimeTriggeredTask = require("./lib/Scheduler/TimeTriggeredTask");
 
-module.exports = { GetCurrentDate, Delay, GetCurrentWeekdayDate, AddDaysToDate, PeriodicTask };
+module.exports = { GetCurrentDate, Delay, GetCurrentWeekdayDate, AddDaysToDate, PeriodicTask, TimeTriggeredTask };
