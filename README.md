@@ -1,6 +1,6 @@
 # time-pack
 
-time-pack
+Need a scheduler that isn't cron or Windows based? time-pack has that in node.js. WIP
 
 [![npm version](https://img.shields.io/npm/v/time-pack.svg)](https://www.npmjs.com/package/time-pack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
